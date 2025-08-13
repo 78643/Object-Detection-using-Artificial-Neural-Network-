@@ -3,9 +3,11 @@ This project demonstrates Object Detection using a trained deep learning model. 
 
 Welcome to my Object Detection project! This ML-based project is focused on detecting and locating objects within images using advanced computer vision techniques. The goal is to enable machines to “see” and understand images, assisting in automation, surveillance, and AI-powered applications.
 
+
 🚀 Objective
 
 Detect and classify multiple objects in images with their bounding boxes using deep learning models.
+
 
 🧪 Models Applied
 
@@ -18,6 +20,7 @@ I applied and evaluated the following object detection algorithms:
 📦 SSD (Single Shot Detector)
 
 📦 RetinaNet
+
 
 🔍 Key Results
 
@@ -34,32 +37,53 @@ RetinaNet	~87%	~20 FPS
 
 🛠️ Technologies & Tools Used
 🐍 Python 3
+
 🖼️ OpenCV – Image processing
+
 📦 PyTorch / TensorFlow – Deep learning framework
+
 📉 Matplotlib, Seaborn – Data visualization
+
 ⚙️ YOLOv5 / Detectron2 – Object detection models
+
 🧪 Jupyter Notebook / VS Code – Development
+
 💾 Weights & Biases – Model tracking (optional)
 
+
 📂 Dataset
+
 Name: COCO Dataset / Custom Dataset
+
 📥 Download: COCO Dataset or your own annotated dataset
+
 📝 Annotation Format: YOLO TXT / Pascal VOC XML
 
+
 📸 Visualizations
+
 The project includes the following visual insights:
 
 📦 Bounding boxes drawn around detected objects
+
 📊 Class distribution charts
+
 📉 Loss curves during training
+
 🔍 Confusion Matrix for classification accuracy
+
 
 🧠 How it Works
 📥 Load & preprocess dataset
+
 📊 Perform exploratory data analysis (EDA)
+
 ⚙️ Train object detection models
+
 ✅ Evaluate and compare model performance
+
 🏆 Select the best model (YOLOv5)
+
 
 📌 Conclusion
 YOLOv5 achieved the highest mAP (92%) with real-time speed.
