@@ -4,12 +4,12 @@ This project demonstrates Object Detection using a trained deep learning model. 
 Welcome to my Object Detection project! This ML-based project is focused on detecting and locating objects within images using advanced computer vision techniques. The goal is to enable machines to “see” and understand images, assisting in automation, surveillance, and AI-powered applications.
 
 
-🚀 Objective
+**🚀 Objective**
 
 Detect and classify multiple objects in images with their bounding boxes using deep learning models.
 
 
-🧪 Models Applied
+**🧪 Models Applied**
 
 I applied and evaluated the following object detection algorithms:
 
@@ -22,7 +22,7 @@ I applied and evaluated the following object detection algorithms:
 📦 RetinaNet
 
 
-🔍 Key Results
+**🔍 Key Results**
 
 Model	mAP (Mean Average Precision)	Speed (FPS)
 
@@ -35,7 +35,8 @@ SSD	~85%	~25 FPS
 RetinaNet	~87%	~20 FPS
 
 
-🛠️ Technologies & Tools Used
+**🛠️ Technologies & Tools Used**
+
 🐍 Python 3
 
 🖼️ OpenCV – Image processing
@@ -51,7 +52,7 @@ RetinaNet	~87%	~20 FPS
 💾 Weights & Biases – Model tracking (optional)
 
 
-📂 Dataset
+**📂 Dataset**
 
 Name: COCO Dataset / Custom Dataset
 
@@ -60,7 +61,7 @@ Name: COCO Dataset / Custom Dataset
 📝 Annotation Format: YOLO TXT / Pascal VOC XML
 
 
-📸 Visualizations
+**📸 Visualizations**
 
 The project includes the following visual insights:
 
@@ -73,7 +74,7 @@ The project includes the following visual insights:
 🔍 Confusion Matrix for classification accuracy
 
 
-🧠 How it Works
+**🧠 How it Works**
 📥 Load & preprocess dataset
 
 📊 Perform exploratory data analysis (EDA)
@@ -85,7 +86,7 @@ The project includes the following visual insights:
 🏆 Select the best model (YOLOv5)
 
 
-📌 Conclusion
+**📌 Conclusion**
 
 YOLOv5 achieved the highest mAP (92%) with real-time speed.
 
@@ -102,8 +103,8 @@ This system can be deployed for automation, surveillance, retail analytics, and 
 📱 Create a Mobile App integration
 
 
-📬 Connect With Me
-🔗 LinkedIn:(https://www.linkedin.com/in/rashmi-kumari-39a42829b/)
+**📬 Connect With Me**
+🔗 LinkedIn:https://www.linkedin.com/in/rashmi-kumari-39a42829b/
 📧 Email: your-rashmikumari21916@gmail.com
 💻 GitHub: https://github.com/78643 
 
