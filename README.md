@@ -86,19 +86,27 @@ The project includes the following visual insights:
 
 
 📌 Conclusion
+
 YOLOv5 achieved the highest mAP (92%) with real-time speed.
+
 This system can be deployed for automation, surveillance, retail analytics, and more.
 
 💡 Future Enhancements
+
 🧠 Train on larger & more diverse datasets
+
 🌐 Deploy using Flask or Streamlit for live camera feed detection
+
 ⚙️ Perform Hyperparameter Tuning
+
 📱 Create a Mobile App integration
 
+
 📬 Connect With Me
-🔗 LinkedIn: your-link
-📧 Email: your-email@example.com
-💻 GitHub: your-github
+🔗 LinkedIn:(https://www.linkedin.com/in/rashmi-kumari-39a42829b/)
+📧 Email: your-rashmikumari21916@gmail.com
+💻 GitHub: https://github.com/78643 
+
 
 🏷️ Hashtags
 #ObjectDetection #YOLOv5 #MachineLearning #Python #ComputerVision #AI #DeepLearning #MLProject #OpenCV
