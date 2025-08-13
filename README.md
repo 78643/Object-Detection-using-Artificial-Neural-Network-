@@ -1,26 +1,36 @@
 # Object-Detection-using-Artificial-Neural-Network
 This project demonstrates Object Detection using a trained deep learning model. The system detects and localizes objects within images or video streams, drawing bounding boxes and labeling them with class names.
 
-🎯 Object Detection using Machine Learning 🖼️
 Welcome to my Object Detection project! This ML-based project is focused on detecting and locating objects within images using advanced computer vision techniques. The goal is to enable machines to “see” and understand images, assisting in automation, surveillance, and AI-powered applications.
 
 🚀 Objective
+
 Detect and classify multiple objects in images with their bounding boxes using deep learning models.
 
 🧪 Models Applied
+
 I applied and evaluated the following object detection algorithms:
 
 📦 YOLOv5 (You Only Look Once – v5) ✅ Best Accuracy
+
 📦 Faster R-CNN
+
 📦 SSD (Single Shot Detector)
+
 📦 RetinaNet
 
 🔍 Key Results
+
 Model	mAP (Mean Average Precision)	Speed (FPS)
+
 YOLOv5	✅ 92%	~45 FPS
+
 Faster R-CNN	~89%	~12 FPS
+
 SSD	~85%	~25 FPS
+
 RetinaNet	~87%	~20 FPS
+
 
 🛠️ Technologies & Tools Used
 🐍 Python 3
