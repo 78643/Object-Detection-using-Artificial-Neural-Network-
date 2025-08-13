@@ -103,9 +103,13 @@ This system can be deployed for automation, surveillance, retail analytics, and 
 📱 Create a Mobile App integration
 
 
+
+
 **📬 Connect With Me**
 🔗 LinkedIn:https://www.linkedin.com/in/rashmi-kumari-39a42829b/
+
 📧 Email: your-rashmikumari21916@gmail.com
+
 💻 GitHub: https://github.com/78643 
 
 
