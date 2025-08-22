@@ -9,8 +9,10 @@ Welcome to my Object Detection project! This ML-based project is focused on dete
 
 Detect and classify multiple objects in images with their bounding boxes using deep learning models.
 
+
 ---
 ## **🧪 Models Applied**
+
 
 I applied and evaluated the following object detection algorithms:
 
