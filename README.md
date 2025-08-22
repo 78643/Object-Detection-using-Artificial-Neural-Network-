@@ -54,8 +54,8 @@ RetinaNet	~87%	~20 FPS
 
 💾 Weights & Biases – Model tracking (optional)
 
-
-**📂 Dataset**
+---
+## **📂 Dataset**
 
 Name: COCO Dataset / Custom Dataset
 
@@ -63,8 +63,8 @@ Name: COCO Dataset / Custom Dataset
 
 📝 Annotation Format: YOLO TXT / Pascal VOC XML
 
-
-**📸 Visualizations**
+---
+## **📸 Visualizations**
 
 The project includes the following visual insights:
 
@@ -76,8 +76,8 @@ The project includes the following visual insights:
 
 🔍 Confusion Matrix for classification accuracy
 
-
-**🧠 How it Works**
+---
+## **🧠 How it Works**
 📥 Load & preprocess dataset
 
 📊 Perform exploratory data analysis (EDA)
@@ -88,8 +88,8 @@ The project includes the following visual insights:
 
 🏆 Select the best model (YOLOv5)
 
-
-**📌 Conclusion**
+---
+## **📌 Conclusion**
 
 YOLOv5 achieved the highest mAP (92%) with real-time speed.
 
@@ -105,8 +105,8 @@ This system can be deployed for automation, surveillance, retail analytics, and 
 
 📱 Create a Mobile App integration
 
-
-**📬 Connect With Me**
+---
+## **📬 Connect With Me**
 
 🔗 LinkedIn:https://www.linkedin.com/in/rashmi-kumari-39a42829b/
 
@@ -114,6 +114,6 @@ This system can be deployed for automation, surveillance, retail analytics, and 
 
 💻 GitHub: https://github.com/78643 
 
-
-🏷️ Hashtags
+---
+## 🏷️ Hashtags
 #ObjectDetection #YOLOv5 #MachineLearning #Python #ComputerVision #AI #DeepLearning #MLProject #OpenCV
