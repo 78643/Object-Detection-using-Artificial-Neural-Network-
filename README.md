@@ -9,8 +9,8 @@ Welcome to my Object Detection project! This ML-based project is focused on dete
 
 Detect and classify multiple objects in images with their bounding boxes using deep learning models.
 
-
-**🧪 Models Applied**
+---
+## **🧪 Models Applied**
 
 I applied and evaluated the following object detection algorithms:
 
@@ -22,8 +22,8 @@ I applied and evaluated the following object detection algorithms:
 
 📦 RetinaNet
 
-
-**🔍 Key Results**
+---
+## **🔍 Key Results**
 
 Model	mAP (Mean Average Precision)	Speed (FPS)
 
@@ -35,8 +35,8 @@ SSD	~85%	~25 FPS
 
 RetinaNet	~87%	~20 FPS
 
-
-**🛠️ Technologies & Tools Used**
+---
+## **🛠️ Technologies & Tools Used**
 
 🐍 Python 3
 
