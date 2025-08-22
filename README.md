@@ -3,7 +3,7 @@ This project demonstrates Object Detection using a trained deep learning model. 
 
 Welcome to my Object Detection project! This ML-based project is focused on detecting and locating objects within images using advanced computer vision techniques. The goal is to enable machines to “see” and understand images, assisting in automation, surveillance, and AI-powered applications.
 
-
+--
 **🚀 Objective**
 
 
